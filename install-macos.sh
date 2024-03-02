@@ -4,7 +4,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 xcode-select --install
 
-brew install tree git terraform tflint wget mongosh kubecolor helm htop mtr jq kubecolor k9s gcloud 
+brew install tree git terraform tflint wget mongosh helm htop mtr jq hidetatz/tap/kubecolor k9s gcloud 
 brew install --cask gitkraken arc shottr orbstack dbeaver-community vlc visual-studio-code sublime-text warp remote-desktop-manager drawio
 
 
